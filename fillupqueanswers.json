@@ -1,0 +1,81 @@
+{	
+	"answers" : [
+	  {
+		"key":"01",
+		"type": "Fillup",
+		"answer": "0,1,2,3,4   
+      1
+      2"
+	  },
+	  {
+		"key":"02",
+		"type": "Fillup",
+		"answer": "it prints factors of 20"
+	  },
+	  {
+		"key":"03",
+		"type": "Fillup",
+		"answer": "nested loop"
+	  },
+    {
+		"key":"04",
+		"type": "Fillup",
+		"answer": "it prints the 8th even numbers"   
+    },
+	  {
+		"key":"05",
+		"type": "Fillup",
+		"answer": "5"
+	  },
+	  {
+		"key":"06",
+		"type": "Fillup",
+		"answer": "abcabcabc"
+	  },
+	  {
+		"key":"07",
+		"type": "Fillup",
+		"answer": "error"
+	  },
+	  {
+		"key":"08",
+		"type": "Fillup",
+		"answer": "cd"
+	  },
+	  {
+		"key":"09",
+		"type": "Fillup",
+		"answer": "bdfh"
+	  },
+    {
+     "key":"10",
+		"type": "Fillup",
+		"answer": "tism"
+	  },
+	  {
+		"key":"11",
+		"type": "Fillup",
+		"answer": "true true"
+	  },
+	  {
+		"key":"12",
+		"type": "Fillup",
+		"answer": "MSIT PROGRAM"
+    },
+     {
+     "key":"13",
+		"type": "Fillup",
+		"answer": "False"
+	  },
+	  {
+		"key":"14",
+		"type": "Fillup",
+		"answer": "This is sweet.really sweet"
+	  },
+	  {
+		"key":"15",
+		"type": "Fillup",
+		"answer": "There are 25dogs"
+    }
+	]
+}
